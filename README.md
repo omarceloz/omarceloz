@@ -10,6 +10,8 @@
   <img align="center" alt="Rafa-SASS" height="30" width="75" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Rafa-LUA" height="30" width="75" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img align="center" alt="Rafa-REACT" height="30" width="75" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Rafa-GIT" height="30" width="75" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Rafa-FIGMA" height="30" width="75" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
   
 </div>
