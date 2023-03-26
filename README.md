@@ -1,7 +1,7 @@
-## 👋 Hi There! ##
+## Hey There! 👋 ##
 
 <h3> Marcelo Souza - 16 Anos - São Paulo, Brasil <h3>
-<h4> Desenvolvedor Junior Front-end <h4>
+<h4> I'm Marcelo - I'm a front-end developer and a high school student. I am interested in knowing and improving myself even more in knowledge related to programming. <h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-HTML" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
