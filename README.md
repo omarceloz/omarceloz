@@ -8,10 +8,8 @@
   <img align="center" alt="Marcelo-CSS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Marcelo-Js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Marcelo-React" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="Marcelo-Styled" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
+  <img align="center" alt="Marcelo-Next" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <img align="center" alt="Marcelo-Sass" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg">
-  <img align="center" alt="Marcelo-LUA" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg">
-  <img align="center" alt="Marcelo-NODE" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 </div>
   
