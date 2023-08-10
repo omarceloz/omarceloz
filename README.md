@@ -11,6 +11,8 @@
   <img align="center" alt="Marcelo-Tail" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Marcelo-Next" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <img align="center" alt="Marcelo-Sass" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg">
+  <img align="center" alt="Marcelo-Flutter" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
+  <img align="center" alt="Marcelo-Dart" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 </div>
   
