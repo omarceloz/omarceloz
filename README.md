@@ -7,6 +7,7 @@
   <img align="center" alt="Marcelo-HTML" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Marcelo-CSS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Marcelo-Js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Marcelo-React" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Marcelo-Vite" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
   <img align="center" alt="Marcelo-Tail" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
