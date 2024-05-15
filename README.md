@@ -1,26 +1,49 @@
-## Hey There! 👋 ##
+# Olá! Eu sou o Marcelo Lourenço 👋
 
-<h3> Marcelo Souza - 17 Anos - São Paulo, Brasil <h3>
-<p style="font-size: 10px"> I'm Marcelo - I'm a front-end developer and a high school student. I am interested in knowing and improving myself even more in knowledge related to programming. <p>
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
+[![Linkedin: marcelolourenco](https://img.shields.io/badge/-Marcelo%20Lourenço-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin/)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-HTML" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Marcelo-CSS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Marcelo-Js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Marcelo-React" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="Marcelo-Vite" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
-  <img align="center" alt="Marcelo-Tail" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-  <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/omarceloz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kaiserz2k" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="oMarcelo#4209" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato.marcelooficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-souza-223151232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
+## Sobre mim
+
+Olá, eu sou o Marcelo Lourenço, um desenvolvedor front-end apaixonado por tecnologia e design. Atualmente, estou me aventurando no desenvolvimento web, criando projetos incríveis e colaborando com a comunidade.
+
+- 💻 **Tecnologias:** 
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </div>
+- 🌱 **Atualmente aprendendo:** 
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  </div>
+- 🎸 **Hobbies:** Tocar baixo, explorar novas tecnologias, participar de hackathons
+- 🎓 **Educação:** Estudante do Ensino Médio
+
+## Projetos Destacados
+
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do Projeto 1. Por exemplo, "Um site de portfólio pessoal usando HTML, CSS e JavaScript."
+
+### [Projeto 2](https://github.com/seu-usuario/projeto2)
+Descrição breve do Projeto 2. Por exemplo, "Uma aplicação de gerenciamento de tarefas construída com React e Node.js."
+
+### [Projeto 3](https://github.com/seu-usuario/projeto3)
+Descrição breve do Projeto 3. Por exemplo, "Uma API RESTful simples para um aplicativo de lista de tarefas."
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub de Marcelo Lourenço](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+## Contato
+
+- 📧 Email: [marcelo@example.com](mailto:marcelo@example.com)
+- 💼 LinkedIn: [Marcelo Lourenço](https://www.linkedin.com/in/seu-linkedin/)
+- 📸 Instagram: [@marcelobass](https://www.instagram.com/marcelobass)
+
+---
+
+_Se você gostou dos meus projetos, não se esqueça de deixar uma estrela! ⭐_
