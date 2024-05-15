@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou o Marcelo Lourenço
 
-[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
-[![Linkedin: marcelolourenco](https://img.shields.io/badge/-Marcelo%20Lourenço-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin/)
+[![GitHub followers](https://img.shields.io/github/followers/omarceloz?label=Follow&style=social)](https://github.com/omarceloz)
+[![Linkedin: marcelolourenco](https://img.shields.io/badge/-Marcelo%20Lourenço-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-souza-223151232/)](https://www.linkedin.com/in/marcelo-souza-223151232//)
 
 ## 🚀 Sobre mim
 
-Sou Marcelo Lourenço, um desenvolvedor front-end apaixonado por criar experiências web incríveis. Aqui está um pouco sobre mim e as tecnologias que eu utilizo:
+Sou Marcelo Lourenço, um desenvolvedor fullstack apaixonado por criar experiências web incríveis. Aqui está um pouco sobre mim e as tecnologias que eu utilizo:
 
-- 🌱 Atualmente aprendendo: TypeScript, GraphQL
-- 🎸 Hobbies: Tocar baixo, explorar novas tecnologias, participar de hackathons
+- 🌱 Atualmente aprendendo: PostgreSQL, Express, Node e Docker
+- 🎸 Hobbies: Tocar baixo, explorar novas tecnologias, participar de projetos opensources
 - 🎓 Educação: Estudante do Ensino Médio
 
 ## 🛠️ Tecnologias
@@ -34,13 +34,13 @@ Sou Marcelo Lourenço, um desenvolvedor front-end apaixonado por criar experiên
 
 ## 📈 Minhas Estatísticas
 
-![Estatísticas do GitHub de Marcelo Lourenço](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Marcelo Lourenço](https://github-readme-stats.vercel.app/api?username=omarceloz&show_icons=true&theme=radical)
 
 ## 🔗 Contato
 
-- 📧 Email: [marcelo@example.com](mailto:marcelo@example.com)
-- 💼 LinkedIn: [Marcelo Lourenço](https://www.linkedin.com/in/seu-linkedin/)
-- 📸 Instagram: [@marcelobass](https://www.instagram.com/marcelobass)
+- 📧 Email: [contato.marcelodev@gmail.com](contato.marcelodev@gmail.com)
+- 💼 LinkedIn: [Marcelo Lourenço](https://www.linkedin.com/in/marcelo-souza-223151232//)
+- 📸 Instagram: [Marcelo Lourenço](https://www.instagram.com/omarceloz)
 
 ---
 
